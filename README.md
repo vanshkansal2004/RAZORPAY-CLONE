@@ -35,8 +35,8 @@ This project is a front-end clone of the Razorpay website, created to practice a
 - **Tailwind CSS**: For styling and responsive design.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/ea53a092-f4f7-4037-ae5c-1aa92191092e)
 ![image](https://github.com/user-attachments/assets/160a5f4d-a897-4f8b-bc3b-3c36bfd729ce)
+![image](https://github.com/user-attachments/assets/ea53a092-f4f7-4037-ae5c-1aa92191092e)
 ![image](https://github.com/user-attachments/assets/e7564a76-be08-44c2-b73f-9e5de2e9ada0)
 ![image](https://github.com/user-attachments/assets/d61b3cd1-06a0-47a7-9b31-565e18ecd0f9)
 ![image](https://github.com/user-attachments/assets/15d6602a-ac36-46b0-90ba-516a0e32717f)
